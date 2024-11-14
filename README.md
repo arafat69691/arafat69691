@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm currently learning programming .\<br>I started cp.  Our programming language is CPP.   You can ask me about data structure and algorithm.<br><br>✨ Give me coffee and I'll give you the code 😩🫂<br>
+I'm from Bangladesh
+✍🏻  I'm currently learning programming .
+🔗 I started cp.  My programming language is CPP.   
+You can ask me about data structure and algorithm.
+
+✨ Give me coffee and I'll give you the code 😩🫂
 
 
 ## 🌐 Socials:
@@ -15,7 +20,10 @@ I'm currently learning programming .\<br>I started cp.  Our programming language
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arafat69691&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=arafat69691&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arafat69691&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
